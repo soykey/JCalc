@@ -5,7 +5,7 @@ public class Main {
         JFrame frame = new JFrame("Calculator");
         frame.add(new Calculator());
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(300, 300);
+        frame.setSize(300, 500);
         frame.setVisible(true);
     }
 }
